@@ -234,7 +234,7 @@ python-versions = "*"
 
 [[package]]
 name = "radar-mongodb"
-version = "0.3.0"
+version = "0.3.1"
 description = ""
 category = "main"
 optional = false
@@ -262,7 +262,7 @@ python-versions = ">=3.7"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "f1520b2ef74e99afd53c4a056b4a483cdea69d98fa61a83ff9b592a6a609be0e"
+content-hash = "6a815adf50e866273dec657125f9d145e3184958229a5dd02af32c219ac7f2d3"
 
 [metadata.files]
 attrs = []
@@ -343,8 +343,8 @@ pytest-html = []
 pytest-metadata = []
 python-decouple = []
 radar-mongodb = [
-    {file = "radar-mongodb-0.3.0.tar.gz", hash = "sha256:bd904a04b470beec51082950edd3f12522d3c2e47d72d3a999577e432a18a0ec"},
-    {file = "radar_mongodb-0.3.0-py3-none-any.whl", hash = "sha256:d033074f351fdb4d83b0099de0929632c77f4cbd55a5b410beeb60fccc85447e"},
+    {file = "radar-mongodb-0.3.1.tar.gz", hash = "sha256:0b47a8d4122375ff31b4b6498442a6ad1cbb8f3b8e182e5a5bd3b418ba2f4116"},
+    {file = "radar_mongodb-0.3.1-py3-none-any.whl", hash = "sha256:a11750341ae094480a64593c45268bf202b153a7ab540a631a2056aac20c2f81"},
 ]
 toml = []
 tomli = []
